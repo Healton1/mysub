@@ -1,1 +1,3 @@
 удалил всю дичь и просто написал
+снова проверяю
+select * from trade where name like'%fg%'
